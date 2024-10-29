@@ -16,7 +16,7 @@ Para utilizar la aplicacion, debe tener acceso a Airtable y crear sus propias ba
 **CUIDADO:** Si modifica el funcionamiento de `setup.ipynb`, puede que el resto de la aplicacion no funcione. Revise la seccion de [Como Modificar](#como-modificar) antes de hacer cualquier modificacion, ya que `graficos.py` interactua directamente con los datos como estan en las tablas de Airtable creadas en `setup.ipynb`.
 
 # Librerias
-Hay 4 modules claves en el proyecto, todas bajo la carpeta `libreria`:
+Hay 4 modulos claves en el proyecto, todas bajo la carpeta `libreria`:
 - `scrape_f1.py`
 - `airtable.py`
 - `graficos.py`
